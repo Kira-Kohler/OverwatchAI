@@ -1,6 +1,6 @@
 {
-  "se ha producido un error": "Estás baneado/a de la aplicación",
-  "utilizada": "La key ya ha sido utilizada",
+  "banned": "Estás baneado/a de la aplicación",
+  "used": "La key ya ha sido utilizada",
   "hwid": "El HWID no coincide con el registrado",
   "no active subscription(s) found": "Tu suscripción ha expirado",
   "invalid license key": "La key es incorrecta",
