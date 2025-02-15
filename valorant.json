@@ -1,7 +1,7 @@
 {
   "your license is banned": "Estás baneado/a de la aplicación",
   "You've been blacklisted from our application": "Estás baneado/a de la aplicación",
-  "used": "La key ya ha sido utilizada",
+  "la clave de licencia ya ha sido utilizada.": "La key ya ha sido utilizada",
   "hwid": "El HWID no coincide con el registrado",
   "no active subscription(s) found": "Tu suscripción ha expirado",
   "invalid license key": "La key es incorrecta",
