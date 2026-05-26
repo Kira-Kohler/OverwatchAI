@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProfile>
+  <Profile>
+    <ProfileName>Valorant</ProfileName>
+    <Executeables>
+      <string>valorant-win64-shipping.exe</string>
+      <string>valorant.exe</string>
+    </Executeables>
+    <Settings />
+  </Profile>
+</ArrayOfProfile>
